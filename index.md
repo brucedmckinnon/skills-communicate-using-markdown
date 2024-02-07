@@ -3,3 +3,9 @@
 ###### this is an "H6" header
 
 This file contains some playing with headers within the markdown(.md) language
+
+there should be an image following this.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
