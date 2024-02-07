@@ -6,7 +6,7 @@ This file contains some playing with headers within the markdown(.md) language
 
 there should be an image following this.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![image of small](https://github.com/brucedmckinnon/skills-communicate-using-markdown/blob/main/funny4.png)
 
 ```
 $ git init
